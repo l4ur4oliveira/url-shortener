@@ -2,6 +2,8 @@
 
 A URL shortener using AWS services like Lambda and S3. Project created from a free Java course.
 
+![Java URL Shortener Screenshot](./.github/front-screenshot.png)
+
 ### Architecture
 ![Project Architecture](./.github/architecture.png)
 
@@ -28,3 +30,4 @@ Request body:
   - API Gateway
   - Lambda
   - S3
+- React
